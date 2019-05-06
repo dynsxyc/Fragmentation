@@ -1,2 +1,2 @@
 # Fragmentation
--keep class * extends android.support.v4.app.FragmentManager{ *; }
+-keep class * extends androidx.fragment.app.FragmentManager{ *; }
